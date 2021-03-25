@@ -81,7 +81,7 @@ PySocks==1.7.1
 python-dateutil==2.8.0
 python-firebase==1.2
 pytz==2018.5
-PyYAML==5.2
+PyYAML==5.4
 qtconsole==4.5.5
 queuelib==1.5.0
 rank-bm25==0.2
