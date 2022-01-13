@@ -63,7 +63,7 @@ openpyxl==3.0.2
 orderedmultidict==1.0.1
 pandas==0.25.3
 parsel==1.5.2
-Pillow==5.2.0
+Pillow==9.0.0
 pronouncing==0.2.0
 Protego==0.1.16
 psycopg2==2.7.7
